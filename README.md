@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7903600.svg)](https://doi.org/10.5281/zenodo.7903600)
+
 # Mechanics: projects and exercises in python
 
 This repository includes 14 exercises and 6 projects written in python and easily accessible as Jupyter Notebooks that were used in several sections a calculus-based introductory mechanics survey course for scientists and engineers at The University of Texas at El Paso (UTEP) in Fall 2022 and Spring 2023. The aim is to reinforce, through the structure and reuse of code, the relationships and commonalities of the main quantities of mechanics: position, velocity, acceleration, force, energy, momentum, torque, moment of inertia, angular momentum, etc. Knowledge of programming is not assumed nor required, but basic python constructions such as loops and functions were explained to the students by the instructors and teaching assistants, often ad hoc. The order of the topics is traditional, with force explained before energy. 
