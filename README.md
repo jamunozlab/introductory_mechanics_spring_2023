@@ -8,7 +8,7 @@ Feedback from the students made apparent that often they did not see the connect
 
 ## Acknowledgements
 
-J.A.M. acknowledges support from the National Science Foundation NSF Award 2213527. The development and implementation of this material is aligned with Goal 1 Initiative 2 of the UTEP Strategic Plan: redesign key core curriculum courses to provide high-impact, engaged-learning experiences. Initial work was supported by the UTEP Office of the Vice Provost for Curriculum Effectiveness and Improvement. 
+J.A.M. acknowledges support from the National Science Foundation [NSF Award 2213527](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213527&HistoricalAwards=false). The development and implementation of this material is aligned with Goal 1 Initiative 2 of the UTEP Strategic Plan: redesign key core curriculum courses to provide high-impact, engaged-learning experiences. Initial work was supported by the UTEP Office of the Vice Provost for Curriculum Effectiveness and Improvement. 
 
 ## References
 
