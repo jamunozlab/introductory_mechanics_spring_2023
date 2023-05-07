@@ -13,4 +13,5 @@ J.A.M. acknowledges support from the National Science Foundation [NSF Award 2213
 ## References
 
 [1] Knight, Randall Dewey. Physics for Scientists and Engineers: A Strategic Approach. United Kingdom: Pearson, 2017.
+
 [2] Crowell, Benjamin. Mechanics. United States: Light and Matter, 2017.
